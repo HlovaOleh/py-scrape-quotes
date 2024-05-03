@@ -1,5 +1,5 @@
 import csv
-from dataclasses import dataclass, fields, astuple
+from dataclasses import fields, astuple
 import logging
 import sys
 from dataclasses import dataclass
